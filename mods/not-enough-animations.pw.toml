@@ -3,16 +3,11 @@ filename = "notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "b31ffefa9579649de8acbac53ac0792830f71e60"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/zc852ea9/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "d85b3c70d950e1c705d6ac5771f4d289e30717178b806ac915025297e6e21b74ac58707b1bd022cdf51b8e3f6300ae0d663343b62a39c8a3948fd7b3209cf85d"
 
 [update]
-[update.curseforge]
-file-id = 6931592
-project-id = 433760
-
-[option]
-optional = true
-default = true
-description = "adds some nice animations"
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "zc852ea9"

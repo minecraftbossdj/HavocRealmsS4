@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3d9599c451cf6d6acf3bc99a782286ea3325e11555f1055af7c59bf626351169"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
 hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
 
@@ -208,11 +213,6 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "5de85151d1381261bb6e0246f599b7d3d7b9e55414bff2ea82c19b75c37de852"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
 metafile = true
@@ -292,6 +292,10 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/design_decor-0.4.0b-1.20.1.jar"
+hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
 metafile = true
@@ -323,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0fee73e1b7bd89912c5854d1168b6434e930018eddf48b29b93134710833fe05"
+hash = "ba33e2257a6e3e4ae195919d16fdb142c326261bd0ea57560820f8d9fd9e324e"
 metafile = true
 
 [[files]]
@@ -542,6 +546,11 @@ hash = "b500ccc37090c11729d8d835058b8d7f0dbdd98ec83a75924ea84d8860587176"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
 metafile = true
@@ -612,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "aba193ba0a46f09b7775377ec10ddd99e522e82dd1e4571f76c7502e53d6cadf"
+hash = "1512cf02885b053f953618449de5c98ab15b448e2712a742b18aae29ade3ec96"
 metafile = true
 
 [[files]]
@@ -698,11 +707,6 @@ hash = "c4cd8d486a0636ce8a8b7257dc4f40d98eb1d55e0b89a3624aef1764044dac59"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "dfc328da75f5d2cdad27ace7cbd41bccd8af8e592ae2fb3cb1bb44cdfb240e2f"
-metafile = true
-
-[[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "c79b018dfb9e0b7ae4ba8508c5ac96a8f4bab7bfcb50a54ee9380d6f442d0906"
 metafile = true
@@ -735,6 +739,10 @@ hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
+file = "mods/tcompat-1.20.1-1.0.0.jar"
+hash = "6c2e7fa637472cafc315d6b15929532443c79708dc1924f1baba1e37cbfd9481"
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "61466bd93ab560b9e8e5270a196a1776c8348d20875a18d6e32a825327b79046"
 metafile = true
@@ -742,11 +750,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-advanced.pw.toml"
 hash = "ede517f96b587eeda96972db61fb8dba08d3c37ff643ab707ec4c2b29e57d675"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-compatibility.pw.toml"
-hash = "bb4dcd837689236cdd33c37048bf2e2dadd399d03d32333169b3aed63fb18189"
 metafile = true
 
 [[files]]
