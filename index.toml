@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/markdownmanual.pw.toml"
-hash = "3f1eea2dd5059eaf390788895a15e83e906083f2013fc0d8cf4bff74c4a99726"
+hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/oc2r.pw.toml"
-hash = "23821b844f5ba95ff8c64f5b4ef26cfa5dec5542bd01c30cfeeff56e2d4d880e"
+hash = "d7c1aef904de15282448ce8c6b6afa265d82b2daf67a40d673dcaab50d2729f3"
 metafile = true
 
 [[files]]
@@ -661,6 +661,14 @@ metafile = true
 file = "mods/paucal.pw.toml"
 hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
+
+[[files]]
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
