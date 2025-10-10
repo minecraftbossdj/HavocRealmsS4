@@ -296,10 +296,6 @@ file = "mods/design_decor-0.4.0b-1.20.1.jar"
 hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
 
 [[files]]
-file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
-hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
-
-[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
 metafile = true
@@ -661,14 +657,6 @@ metafile = true
 file = "mods/paucal.pw.toml"
 hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
-
-[[files]]
-file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
-hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
-
-[[files]]
-file = "mods/petrolsparts-1.20.1-1.1.5.jar"
-hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
