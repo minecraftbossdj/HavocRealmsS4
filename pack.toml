@@ -1,12 +1,12 @@
 name = "Havoc Realms S4"
 author = "minecraftbossdj"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ad30eca1e4bec8c95d7cb6dc542c313c5a508af4bd4bc58051ed880aaed27c9"
+hash = "286c1894e159bdee48098b5d0dadafdb565bb945c1ee23b5ebc6bf7a0000b8bd"
 
 [versions]
 forge = "47.4.4"
